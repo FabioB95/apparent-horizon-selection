@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Enclosed volume, not area, selects the apparent horizon: code and data"
+authors:
+  - family-names: Buffoli
+    given-names: Fabio
+    affiliation: "Università degli Studi di Brescia"
+    orcid: "https://orcid.org/0009-0002-6524-2388"
+repository-code: "https://github.com/fabiob95/apparent-horizon-selection"
+license: MIT
+date-released: 2026-11-16
+preferred-citation:
+  type: article
+  title: "Enclosed volume, not area, selects the apparent horizon: a variational principle and its Grover structure"
+  authors:
+    - family-names: Buffoli
+      given-names: Fabio
+  year: 2026
